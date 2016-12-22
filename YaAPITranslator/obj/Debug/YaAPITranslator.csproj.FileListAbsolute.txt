@@ -1,0 +1,18 @@
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.exe.config
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.MainWindow.resources
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.exe
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.pdb
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.exe
+c:\users\dima\documents\visual studio 2013\Projects\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.pdb
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.exe.config
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.exe
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.pdb
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.exe
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\bin\Debug\YaAPITranslator.pdb
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.csprojResolveAssemblyReference.cache
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.MainWindow.resources
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.Properties.Resources.resources
+D:\project_visual_studio\YaAPITranslator\YaAPITranslator\obj\Debug\YaAPITranslator.csproj.GenerateResource.Cache
